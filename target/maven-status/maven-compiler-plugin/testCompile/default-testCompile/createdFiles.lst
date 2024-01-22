@@ -1,0 +1,6 @@
+BaseClassTest\BaseClass.class
+StepDefinition\StepDefinitions.class
+Utilities\WaitHelper.class
+PageObjects\AccountPage.class
+PageObjects\LoginPage.class
+TestRunner\TestRunner.class

@@ -1,0 +1,143 @@
+[INFO ] 2024-01-21 12:03:57.033 [main] CucumberFramework_Practice - ------------------>Login Scenario Test Case Execution:<-----------------------
+[INFO ] 2024-01-21 12:04:01.330 [main] CucumberFramework_Practice - *************Opening URL of the application********************
+[INFO ] 2024-01-21 12:04:02.268 [main] CucumberFramework_Practice - *************Clicking on Sign In Link********************
+[INFO ] 2024-01-21 12:04:02.269 [main] CucumberFramework_Practice - ------------------>Account Scenrio Test Case Execution:<-----------------------
+[INFO ] 2024-01-21 12:04:02.317 [main] CucumberFramework_Practice - *************Account Page Title Matched********************
+[INFO ] 2024-01-21 12:04:02.477 [main] CucumberFramework_Practice - *************Entered Email Address********************
+[INFO ] 2024-01-21 12:04:02.660 [main] CucumberFramework_Practice - *************Clicking on Create Account********************
+[INFO ] 2024-01-21 12:04:03.646 [main] CucumberFramework_Practice - *************Selecting Gender********************
+[INFO ] 2024-01-21 12:04:03.781 [main] CucumberFramework_Practice - *************Entering Firstname********************
+[INFO ] 2024-01-21 12:04:03.943 [main] CucumberFramework_Practice - *************Entering Lastname********************
+[INFO ] 2024-01-21 12:04:04.160 [main] CucumberFramework_Practice - *************Entering Password********************
+[INFO ] 2024-01-21 12:04:04.339 [main] CucumberFramework_Practice - *************Selecting Day********************
+[INFO ] 2024-01-21 12:04:04.560 [main] CucumberFramework_Practice - *************Selecting Month********************
+[INFO ] 2024-01-21 12:04:04.763 [main] CucumberFramework_Practice - *************Selecting Year********************
+[INFO ] 2024-01-21 12:04:05.713 [main] CucumberFramework_Practice - *************Clicking on Register********************
+[INFO ] 2024-01-21 12:04:05.806 [main] CucumberFramework_Practice - *************Account Test Case Passed********************
+[INFO ] 2024-01-21 12:04:06.145 [main] CucumberFramework_Practice - *************Closing Browser********************
+[INFO ] 2024-01-21 12:04:07.147 [main] CucumberFramework_Practice - ------------------>Login Scenario Test Case Execution:<-----------------------
+[INFO ] 2024-01-21 12:04:12.285 [main] CucumberFramework_Practice - *************Opening URL of the application********************
+[INFO ] 2024-01-21 12:04:13.289 [main] CucumberFramework_Practice - *************Clicking on Sign In Link********************
+[INFO ] 2024-01-21 12:04:13.438 [main] CucumberFramework_Practice - *************Entering an Email********************
+[INFO ] 2024-01-21 12:04:13.580 [main] CucumberFramework_Practice - *************Entering Password********************
+[INFO ] 2024-01-21 12:04:14.509 [main] CucumberFramework_Practice - *************CLicking on Submit********************
+[INFO ] 2024-01-21 12:04:14.547 [main] CucumberFramework_Practice - *************Login Scenario Test Case Passed********************
+[INFO ] 2024-01-21 12:04:14.886 [main] CucumberFramework_Practice - *************Closing Browser********************
+[INFO ] 2024-01-21 12:07:10.398 [main] CucumberFramework_Practice - ------------------>Login Scenario Test Case Execution:<-----------------------
+[INFO ] 2024-01-21 12:07:14.077 [main] CucumberFramework_Practice - *************Opening URL of the application********************
+[INFO ] 2024-01-21 12:07:14.914 [main] CucumberFramework_Practice - *************Clicking on Sign In Link********************
+[INFO ] 2024-01-21 12:07:14.916 [main] CucumberFramework_Practice - ------------------>Account Scenrio Test Case Execution:<-----------------------
+[INFO ] 2024-01-21 12:07:14.965 [main] CucumberFramework_Practice - *************Account Page Title Matched********************
+[INFO ] 2024-01-21 12:07:15.128 [main] CucumberFramework_Practice - *************Entered Email Address********************
+[INFO ] 2024-01-21 12:07:15.299 [main] CucumberFramework_Practice - *************Clicking on Create Account********************
+[INFO ] 2024-01-21 12:07:16.338 [main] CucumberFramework_Practice - *************Selecting Gender********************
+[INFO ] 2024-01-21 12:07:16.537 [main] CucumberFramework_Practice - *************Entering Firstname********************
+[INFO ] 2024-01-21 12:07:16.688 [main] CucumberFramework_Practice - *************Entering Lastname********************
+[INFO ] 2024-01-21 12:07:16.865 [main] CucumberFramework_Practice - *************Entering Password********************
+[INFO ] 2024-01-21 12:07:17.085 [main] CucumberFramework_Practice - *************Selecting Day********************
+[INFO ] 2024-01-21 12:07:17.329 [main] CucumberFramework_Practice - *************Selecting Month********************
+[INFO ] 2024-01-21 12:07:17.482 [main] CucumberFramework_Practice - *************Selecting Year********************
+[INFO ] 2024-01-21 12:07:18.381 [main] CucumberFramework_Practice - *************Clicking on Register********************
+[INFO ] 2024-01-21 12:07:18.648 [main] CucumberFramework_Practice - *************Account Test Case Passed********************
+[INFO ] 2024-01-21 12:07:18.999 [main] CucumberFramework_Practice - *************Closing Browser********************
+[INFO ] 2024-01-21 12:07:20.135 [main] CucumberFramework_Practice - ------------------>Login Scenario Test Case Execution:<-----------------------
+[INFO ] 2024-01-21 12:07:24.112 [main] CucumberFramework_Practice - *************Opening URL of the application********************
+[INFO ] 2024-01-21 12:07:25.218 [main] CucumberFramework_Practice - *************Clicking on Sign In Link********************
+[INFO ] 2024-01-21 12:07:25.366 [main] CucumberFramework_Practice - *************Entering an Email********************
+[INFO ] 2024-01-21 12:07:25.465 [main] CucumberFramework_Practice - *************Entering Password********************
+[INFO ] 2024-01-21 12:07:26.069 [main] CucumberFramework_Practice - *************CLicking on Submit********************
+[INFO ] 2024-01-21 12:07:26.372 [main] CucumberFramework_Practice - *************Login Scenario Test Case Passed********************
+[INFO ] 2024-01-21 12:07:26.656 [main] CucumberFramework_Practice - *************Closing Browser********************
+[INFO ] 2024-01-21 12:07:52.076 [main] CucumberFramework_Practice - ------------------>Login Scenario Test Case Execution:<-----------------------
+[INFO ] 2024-01-21 12:07:56.213 [main] CucumberFramework_Practice - *************Opening URL of the application********************
+[INFO ] 2024-01-21 12:07:57.077 [main] CucumberFramework_Practice - *************Clicking on Sign In Link********************
+[INFO ] 2024-01-21 12:07:57.301 [main] CucumberFramework_Practice - *************Entering an Email********************
+[INFO ] 2024-01-21 12:07:57.486 [main] CucumberFramework_Practice - *************Entering Password********************
+[INFO ] 2024-01-21 12:07:58.379 [main] CucumberFramework_Practice - *************CLicking on Submit********************
+[INFO ] 2024-01-21 12:07:58.423 [main] CucumberFramework_Practice - *************Login Scenario Test Case Passed********************
+[INFO ] 2024-01-21 12:07:58.767 [main] CucumberFramework_Practice - *************Closing Browser********************
+[INFO ] 2024-01-21 12:19:22.617 [main] CucumberFramework_Practice - ------------------>Login Scenario Test Case Execution:<-----------------------
+[INFO ] 2024-01-21 12:19:24.062 [main] CucumberFramework_Practice - *************Opening URL of the application********************
+[INFO ] 2024-01-21 12:20:16.324 [main] CucumberFramework_Practice - ------------------>Login Scenario Test Case Execution:<-----------------------
+[INFO ] 2024-01-21 12:20:20.690 [main] CucumberFramework_Practice - *************Opening URL of the application********************
+[INFO ] 2024-01-21 12:20:21.560 [main] CucumberFramework_Practice - *************Clicking on Sign In Link********************
+[INFO ] 2024-01-21 12:20:21.753 [main] CucumberFramework_Practice - *************Entering an Email********************
+[INFO ] 2024-01-21 12:20:21.860 [main] CucumberFramework_Practice - *************Entering Password********************
+[INFO ] 2024-01-21 12:20:22.722 [main] CucumberFramework_Practice - *************CLicking on Submit********************
+[INFO ] 2024-01-21 12:20:22.779 [main] CucumberFramework_Practice - *************Login Scenario Test Case Passed********************
+[INFO ] 2024-01-21 12:20:23.077 [main] CucumberFramework_Practice - *************Closing Browser********************
+[INFO ] 2024-01-21 12:25:12.321 [main] CucumberFramework_Practice - ------------------>Login Scenario Test Case Execution:<-----------------------
+[INFO ] 2024-01-21 12:25:17.205 [main] CucumberFramework_Practice - *************Opening URL of the application********************
+[INFO ] 2024-01-21 12:25:18.353 [main] CucumberFramework_Practice - *************Clicking on Sign In Link********************
+[INFO ] 2024-01-21 12:25:18.355 [main] CucumberFramework_Practice - ------------------>Account Scenrio Test Case Execution:<-----------------------
+[INFO ] 2024-01-21 12:25:18.390 [main] CucumberFramework_Practice - *************Account Page Title Matched********************
+[INFO ] 2024-01-21 12:25:18.584 [main] CucumberFramework_Practice - *************Entered Email Address********************
+[INFO ] 2024-01-21 12:25:18.758 [main] CucumberFramework_Practice - *************Clicking on Create Account********************
+[INFO ] 2024-01-21 12:25:19.761 [main] CucumberFramework_Practice - *************Selecting Gender********************
+[INFO ] 2024-01-21 12:25:19.931 [main] CucumberFramework_Practice - *************Entering Firstname********************
+[INFO ] 2024-01-21 12:25:20.135 [main] CucumberFramework_Practice - *************Entering Lastname********************
+[INFO ] 2024-01-21 12:25:20.353 [main] CucumberFramework_Practice - *************Entering Password********************
+[INFO ] 2024-01-21 12:25:20.548 [main] CucumberFramework_Practice - *************Selecting Day********************
+[INFO ] 2024-01-21 12:25:20.736 [main] CucumberFramework_Practice - *************Selecting Month********************
+[INFO ] 2024-01-21 12:25:20.946 [main] CucumberFramework_Practice - *************Selecting Year********************
+[INFO ] 2024-01-21 12:25:22.016 [main] CucumberFramework_Practice - *************Clicking on Register********************
+[INFO ] 2024-01-21 12:25:22.104 [main] CucumberFramework_Practice - *************Account Test Case Passed********************
+[INFO ] 2024-01-21 12:25:22.399 [main] CucumberFramework_Practice - *************Closing Browser********************
+[INFO ] 2024-01-21 12:25:23.587 [main] CucumberFramework_Practice - ------------------>Login Scenario Test Case Execution:<-----------------------
+[INFO ] 2024-01-21 12:25:28.856 [main] CucumberFramework_Practice - *************Opening URL of the application********************
+[INFO ] 2024-01-21 12:25:29.732 [main] CucumberFramework_Practice - *************Clicking on Sign In Link********************
+[INFO ] 2024-01-21 12:25:29.877 [main] CucumberFramework_Practice - *************Entering an Email********************
+[INFO ] 2024-01-21 12:25:30.043 [main] CucumberFramework_Practice - *************Entering Password********************
+[INFO ] 2024-01-21 12:25:31.379 [main] CucumberFramework_Practice - *************CLicking on Submit********************
+[INFO ] 2024-01-21 12:25:31.420 [main] CucumberFramework_Practice - *************Login Scenario Test Case Passed********************
+[INFO ] 2024-01-21 12:25:31.658 [main] CucumberFramework_Practice - *************Closing Browser********************
+[INFO ] 2024-01-21 12:26:24.588 [main] CucumberFramework_Practice - ------------------>Login Scenario Test Case Execution:<-----------------------
+[INFO ] 2024-01-21 12:26:30.172 [main] CucumberFramework_Practice - *************Opening URL of the application********************
+[INFO ] 2024-01-21 12:26:31.268 [main] CucumberFramework_Practice - *************Clicking on Sign In Link********************
+[INFO ] 2024-01-21 12:26:31.270 [main] CucumberFramework_Practice - ------------------>Account Scenrio Test Case Execution:<-----------------------
+[INFO ] 2024-01-21 12:26:31.994 [main] CucumberFramework_Practice - *************Account Page Title Matched********************
+[INFO ] 2024-01-21 12:26:32.372 [main] CucumberFramework_Practice - *************Entered Email Address********************
+[INFO ] 2024-01-21 12:26:33.308 [main] CucumberFramework_Practice - *************Clicking on Create Account********************
+[INFO ] 2024-01-21 12:26:34.472 [main] CucumberFramework_Practice - *************Selecting Gender********************
+[INFO ] 2024-01-21 12:26:34.649 [main] CucumberFramework_Practice - *************Entering Firstname********************
+[INFO ] 2024-01-21 12:26:34.953 [main] CucumberFramework_Practice - *************Entering Lastname********************
+[INFO ] 2024-01-21 12:26:35.174 [main] CucumberFramework_Practice - *************Entering Password********************
+[INFO ] 2024-01-21 12:26:35.383 [main] CucumberFramework_Practice - *************Selecting Day********************
+[INFO ] 2024-01-21 12:26:35.635 [main] CucumberFramework_Practice - *************Selecting Month********************
+[INFO ] 2024-01-21 12:26:35.844 [main] CucumberFramework_Practice - *************Selecting Year********************
+[INFO ] 2024-01-21 12:26:36.870 [main] CucumberFramework_Practice - *************Clicking on Register********************
+[INFO ] 2024-01-21 12:26:36.944 [main] CucumberFramework_Practice - *************Account Test Case Passed********************
+[INFO ] 2024-01-21 12:26:37.300 [main] CucumberFramework_Practice - *************Closing Browser********************
+[INFO ] 2024-01-21 12:26:40.518 [main] CucumberFramework_Practice - ------------------>Login Scenario Test Case Execution:<-----------------------
+[INFO ] 2024-01-21 12:26:46.108 [main] CucumberFramework_Practice - *************Opening URL of the application********************
+[INFO ] 2024-01-21 12:26:47.084 [main] CucumberFramework_Practice - *************Clicking on Sign In Link********************
+[INFO ] 2024-01-21 12:26:47.237 [main] CucumberFramework_Practice - *************Entering an Email********************
+[INFO ] 2024-01-21 12:26:47.384 [main] CucumberFramework_Practice - *************Entering Password********************
+[INFO ] 2024-01-21 12:26:48.269 [main] CucumberFramework_Practice - *************CLicking on Submit********************
+[INFO ] 2024-01-21 12:26:48.552 [main] CucumberFramework_Practice - *************Login Scenario Test Case Passed********************
+[INFO ] 2024-01-21 12:26:48.828 [main] CucumberFramework_Practice - *************Closing Browser********************
+[INFO ] 2024-01-22 11:49:37.016 [main] CucumberFramework_Practice - ------------------>Login Scenario Test Case Execution:<-----------------------
+[INFO ] 2024-01-22 11:49:45.402 [main] CucumberFramework_Practice - *************Opening URL of the application********************
+[INFO ] 2024-01-22 11:49:46.973 [main] CucumberFramework_Practice - *************Clicking on Sign In Link********************
+[INFO ] 2024-01-22 11:49:46.974 [main] CucumberFramework_Practice - ------------------>Account Scenrio Test Case Execution:<-----------------------
+[INFO ] 2024-01-22 11:49:47.032 [main] CucumberFramework_Practice - *************Account Page Title Matched********************
+[INFO ] 2024-01-22 11:49:47.243 [main] CucumberFramework_Practice - *************Entered Email Address********************
+[INFO ] 2024-01-22 11:49:47.656 [main] CucumberFramework_Practice - *************Clicking on Create Account********************
+[INFO ] 2024-01-22 11:49:48.765 [main] CucumberFramework_Practice - *************Selecting Gender********************
+[INFO ] 2024-01-22 11:49:49.185 [main] CucumberFramework_Practice - *************Entering Firstname********************
+[INFO ] 2024-01-22 11:49:49.377 [main] CucumberFramework_Practice - *************Entering Lastname********************
+[INFO ] 2024-01-22 11:49:49.670 [main] CucumberFramework_Practice - *************Entering Password********************
+[INFO ] 2024-01-22 11:49:50.046 [main] CucumberFramework_Practice - *************Selecting Day********************
+[INFO ] 2024-01-22 11:49:50.330 [main] CucumberFramework_Practice - *************Selecting Month********************
+[INFO ] 2024-01-22 11:49:50.599 [main] CucumberFramework_Practice - *************Selecting Year********************
+[INFO ] 2024-01-22 11:49:52.001 [main] CucumberFramework_Practice - *************Clicking on Register********************
+[INFO ] 2024-01-22 11:49:52.085 [main] CucumberFramework_Practice - *************Account Test Case Passed********************
+[INFO ] 2024-01-22 11:49:52.469 [main] CucumberFramework_Practice - *************Closing Browser********************
+[INFO ] 2024-01-22 11:49:54.691 [main] CucumberFramework_Practice - ------------------>Login Scenario Test Case Execution:<-----------------------
+[INFO ] 2024-01-22 11:49:59.266 [main] CucumberFramework_Practice - *************Opening URL of the application********************
+[INFO ] 2024-01-22 11:50:00.288 [main] CucumberFramework_Practice - *************Clicking on Sign In Link********************
+[INFO ] 2024-01-22 11:50:00.472 [main] CucumberFramework_Practice - *************Entering an Email********************
+[INFO ] 2024-01-22 11:50:00.612 [main] CucumberFramework_Practice - *************Entering Password********************
+[INFO ] 2024-01-22 11:50:01.721 [main] CucumberFramework_Practice - *************CLicking on Submit********************
+[INFO ] 2024-01-22 11:50:01.772 [main] CucumberFramework_Practice - *************Login Scenario Test Case Passed********************
+[INFO ] 2024-01-22 11:50:02.212 [main] CucumberFramework_Practice - *************Closing Browser********************
